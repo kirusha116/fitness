@@ -1,0 +1,5 @@
+:HL["/fitness/_next/static/chunks/68d95112a10a92cc.css","style"]
+:HL["/fitness/_next/static/media/44fac91e6f2d2b1b-s.p.0a39a854.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/fitness/_next/static/media/Gilroy_Medium-s.p.0095cfb1.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/fitness/_next/static/media/Monorale_Bold-s.p.31f986da.woff","font",{"crossOrigin":"","type":"font/woff"}]
+0:{"buildId":"4PMnQrIH7efD9BIKBeVMC","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

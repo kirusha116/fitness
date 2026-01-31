@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[88929,["/fitness/_next/static/chunks/1b1a3d9eaa9714be.js","/fitness/_next/static/chunks/5caa48df71be4cbb.js"],"default"]
+3:I[90523,["/fitness/_next/static/chunks/1b1a3d9eaa9714be.js","/fitness/_next/static/chunks/5caa48df71be4cbb.js"],"default"]
+0:{"buildId":"4PMnQrIH7efD9BIKBeVMC","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

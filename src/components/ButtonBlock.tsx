@@ -18,7 +18,7 @@ export default function ButtonBlock() {
         >
           {isChecked && (
             <Image
-              src="/Vector.svg"
+              src="/fitness/Vector.svg"
               alt="V"
               width={20.36}
               height={14.55}
